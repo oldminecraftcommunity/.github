@@ -3,6 +3,6 @@
 
 ## Our socials:
 
-[![discord](https://img.shields.io/badge/Discord%20(MCPE)-link-green)](https://discord.gg/88rmYJQAEf)
-[![discord](https://img.shields.io/badge/Discord%20(Java)-link-purple)](https://discord.gg/KUMp68eA8b)
+[![discord](https://img.shields.io/badge/Discord%20(MCPE)-link-green)](https://discord.gg/9yBCJsRQQJ)
+[![discord](https://img.shields.io/badge/Discord%20(Java)-link-purple)](https://discord.gg/2W4DHM5dXj)
 [![youtube](https://img.shields.io/badge/YouTube-link-darkred)](https://youtube.com/@oldminecraftcommunity)
